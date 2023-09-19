@@ -1,0 +1,39 @@
+Body {
+	width: 500px;
+	margin: auto;
+	border: 8px solid #00296b;
+	font-family: Helvetica;
+}
+
+.avatar {
+	width: 40%;
+	border: 5px solid #00296b;
+	border-radius: 30px;
+}
+
+.card {
+	width: 475px;
+	margin: 0 auto #00296b;
+	padding: 20px;
+	display: flex;
+	text-align: center;
+	background: #ffa200;
+	color: #00296b;
+	border: 5px solid #00296b;	
+}
+
+.contacttext {
+	padding: auto;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 0.85em;
+	font-weight: normal;
+}
+
+/*.gabycv:visited {
+		color: #bf211e;
+}
+
+.LinkedIn:hover {
+	color: #bf211e;
+}*/

@@ -1,0 +1,22 @@
+Body {
+	margin: 15px;
+	border: 10px solid #00296b;
+	font: monaco;
+	
+}
+
+.avatar {
+	width: 150px;
+	border: 5px solid #00296b;
+}
+
+.card {
+	width: 450px;
+	margin: 0 auto #00296b;
+	padding: 20px;
+	display: flex;
+	text-align: center;
+	background: #ffa200;
+	color: #00296b;
+	border: 5px solid #00296b;
+}
